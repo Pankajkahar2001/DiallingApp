@@ -1,27 +1,10 @@
-# A Call Log Access App
-
-![final call logs](https://github.com/sai-mudike/call_log_access_app/assets/127184650/c7f7e4b9-c1f5-4bbe-8f25-bce59e5c84ef)
-
-
- I've made a Flutter app that helps folks check their call history easily. In the app, you can see details like who called, their number, how long the call lasted, and when it happened. The app's design makes it simple to move around and look at your call log comfortably.
-
- Click => [Watch Code Explanation Here.](https://www.youtube.com/watch?v=_GcJG0Y-kCg)
-
-
-
-## Getting Started
-
 To get started with this project, follow these simple steps:
 
 ## How to Use 
 
 **Step 1:**
 
-Download or clone this repo by using the link below:
-
-```
-https://github.com/sai-mudike/call_log_access_app.git
-```
+Download or clone this repo
 
 **Step 2:**
 
@@ -98,8 +81,3 @@ lib/
 2- helpers.dart — Contains the common helper functions for the applications.
 4- main.dart - This is the starting point of the application. All the application level configurations are defined in this file i.e, theme, routes, title etc.
 ```
-
-
-
-#Happy_Coding👩‍💻
-
