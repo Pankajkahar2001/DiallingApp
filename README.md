@@ -1,4 +1,5 @@
 To get started with this project, follow these simple steps:
+![final call logs](https://github.com/sai-mudike/call_log_access_app/assets/127184650/c7f7e4b9-c1f5-4bbe-8f25-bce59e5c84ef)
 
 ## How to Use 
 
